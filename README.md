@@ -8,10 +8,18 @@ installed and the configuration modified to start the rest server on port
 
 This means that
 
-1) Tests should run faster, since the graph is only stored in memory.
-2) The test server will use more memory than the ordinary server would for the same data set.
-3) Data is lost when the server is stopped.
-4) Your test server can be kept running alongside an out-of-the-box neo4j dev server.
+1. Tests should run faster, since the graph is only stored in memory.
+2. The test server will use more memory than the ordinary server would for the same data set.
+3. Data is lost when the server is stopped.
+4. Your test server can be kept running alongside an out-of-the-box neo4j dev server.
+
+Quick Start
+-----------
+
+    git clone https://github.com/loop-recur/neo4j-test-server.git
+    neo4j-test-server/bin/neo4j start
+
+Then connect to your test db at `localhost:7373` in your test suite.
 
 In the box
 ----------
