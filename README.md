@@ -1,9 +1,17 @@
-Neo4j 2.0.0
+Neo4j 2.0.0 test database
 =======================================
 
-Welcome to Neo4j release 2.0.0, a high-performance graph database.
-This is the community distribution of Neo4j, including everything you need to
-start building applications that can model, persist and explore graph-like data.
+This is a Neo4j 2.0.0 community edition graph database, with Micheal Hunger's
+[neo4j-in-memory-server](https://github.com/jexp/neo4j-in-memory-server)
+installed and the configuration modified to start the rest server on port
+7373 and the https version on port 7272.
+
+This means that
+
+1) Tests should run faster, since the graph is only stored in memory.
+2) The test server will use more memory than the ordinary server would for the same data set.
+3) Data is lost when the server is stopped.
+4) Your test server can be kept running alongside an out-of-the-box neo4j dev server.
 
 In the box
 ----------
@@ -33,17 +41,14 @@ look at the web interface ...
 2. Start the server:
    * Windows: use bin\Neo4j.bat
    * Linux/Mac: use ./bin/neo4j console
-3. In a browser, open http://localhost:7474/
-4. From any REST client or browser, open http://localhost:7474/db/data
+3. In a browser, open http://localhost:7373/
+4. From any REST client or browser, open http://localhost:7373/db/data
    in order to get a REST starting point, e.g.
-   curl -v http://localhost:7474/db/data
+   curl -v http://localhost:7373/db/data
 5. Shutdown the server by typing Ctrl-C in the console.
 
 Learn more
 ----------
-
-There is a manual available in the `doc` directory, which includes tutorials
-and reference material.
 
 Out on the internets, you'll find:
 
