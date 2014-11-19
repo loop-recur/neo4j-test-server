@@ -1,0 +1,666 @@
+Jul 10, 2014 2:36:47 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Jul 10, 2014 2:36:48 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Jul 10, 2014 2:36:51 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Jul 10, 2014 2:36:52 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Jul 10, 2014 2:36:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Jul 10, 2014 2:36:54 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:36:55 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:36:56 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:36:56 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Jul 10, 2014 2:49:47 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Jul 10, 2014 2:50:31 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Jul 10, 2014 2:50:33 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Jul 10, 2014 2:50:36 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Jul 10, 2014 2:50:37 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Jul 10, 2014 2:50:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Jul 10, 2014 2:50:39 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:50:40 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:50:41 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:50:41 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Jul 10, 2014 2:51:09 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Jul 10, 2014 2:52:06 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Jul 10, 2014 2:52:08 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Jul 10, 2014 2:52:11 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Jul 10, 2014 2:52:12 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Jul 10, 2014 2:52:12 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Jul 10, 2014 2:52:13 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Jul 10, 2014 2:52:13 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:52:14 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:52:15 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 10, 2014 2:52:16 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Jul 10, 2014 3:07:14 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Jul 16, 2014 1:07:42 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Jul 16, 2014 1:07:43 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Jul 16, 2014 1:07:51 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Jul 16, 2014 1:07:51 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Jul 16, 2014 1:07:52 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Jul 16, 2014 1:07:52 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 16, 2014 1:07:53 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 16, 2014 1:07:53 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 16, 2014 1:07:53 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Jul 22, 2014 2:30:21 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Jul 22, 2014 2:30:22 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Jul 22, 2014 2:30:29 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Jul 22, 2014 2:30:30 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Jul 22, 2014 2:30:30 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Jul 22, 2014 2:30:31 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Jul 22, 2014 2:30:31 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 22, 2014 2:30:31 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 22, 2014 2:30:32 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Jul 22, 2014 2:30:32 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Aug 04, 2014 1:24:40 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Aug 04, 2014 1:24:42 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Aug 04, 2014 1:24:50 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Aug 04, 2014 1:24:52 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Aug 04, 2014 1:24:52 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Aug 04, 2014 1:24:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Aug 04, 2014 1:24:54 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 04, 2014 1:24:55 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 04, 2014 1:24:57 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 04, 2014 1:24:58 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Aug 04, 2014 1:30:21 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Aug 11, 2014 3:47:30 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Aug 11, 2014 3:47:31 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Aug 11, 2014 3:47:38 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Aug 11, 2014 3:47:38 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Aug 11, 2014 3:47:39 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Aug 11, 2014 3:47:39 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 11, 2014 3:47:40 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 11, 2014 3:47:40 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Aug 11, 2014 3:47:40 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Aug 12, 2014 12:04:33 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Sep 04, 2014 3:33:20 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Sep 04, 2014 3:33:21 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Sep 04, 2014 3:33:29 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Sep 04, 2014 3:33:30 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Sep 04, 2014 3:33:31 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 04, 2014 3:33:31 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 04, 2014 3:33:31 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 04, 2014 3:33:32 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Sep 08, 2014 3:17:09 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Sep 08, 2014 3:17:12 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Sep 08, 2014 3:17:23 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Sep 08, 2014 3:17:25 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Sep 08, 2014 3:17:25 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Sep 08, 2014 3:17:26 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Sep 08, 2014 3:17:27 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 08, 2014 3:17:29 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 08, 2014 3:17:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 08, 2014 3:17:31 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Sep 24, 2014 12:04:56 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Sep 24, 2014 12:04:57 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Sep 24, 2014 12:04:59 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Sep 24, 2014 12:05:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Sep 24, 2014 12:05:01 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Sep 24, 2014 12:05:01 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 24, 2014 12:05:02 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 24, 2014 12:05:02 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 24, 2014 12:05:02 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Sep 29, 2014 4:16:04 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Sep 29, 2014 4:16:05 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Sep 29, 2014 4:16:12 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Sep 29, 2014 4:16:14 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Sep 29, 2014 4:16:14 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Sep 29, 2014 4:16:15 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Sep 29, 2014 4:16:16 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 29, 2014 4:16:17 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 29, 2014 4:16:17 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Sep 29, 2014 4:16:18 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Oct 16, 2014 1:23:46 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Oct 16, 2014 1:23:47 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Oct 16, 2014 1:23:52 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Oct 16, 2014 1:23:52 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Oct 16, 2014 1:23:53 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Oct 16, 2014 1:23:53 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Oct 16, 2014 1:23:54 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Oct 16, 2014 1:23:54 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Oct 16, 2014 1:23:54 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Nov 03, 2014 2:18:27 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 03, 2014 2:18:28 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 03, 2014 2:18:34 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 03, 2014 2:18:36 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 03, 2014 2:18:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 03, 2014 2:18:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 03, 2014 2:18:38 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 03, 2014 2:18:40 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 03, 2014 2:18:42 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 03, 2014 2:18:44 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 03, 2014 2:18:45 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Nov 05, 2014 3:07:12 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Nov 13, 2014 4:23:56 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 13, 2014 4:23:57 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 13, 2014 4:23:59 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 13, 2014 4:23:59 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 13, 2014 4:24:00 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 13, 2014 4:24:00 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 13, 2014 4:24:01 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 13, 2014 4:24:01 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 13, 2014 4:24:01 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Nov 13, 2014 4:24:16 PM org.neo4j.server.logging.Logger log
+INFO: Available console sessions: SHELL: class org.neo4j.server.webadmin.console.ShellSessionCreator
+CYPHER: class org.neo4j.server.webadmin.console.CypherSessionCreator
+
+Nov 14, 2014 2:35:52 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 14, 2014 2:35:53 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 14, 2014 2:35:56 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 14, 2014 2:35:57 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 14, 2014 2:35:57 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 14, 2014 2:35:57 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 14, 2014 2:35:58 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 14, 2014 2:35:58 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 14, 2014 2:35:58 PM org.neo4j.server.logging.Logger log
+SEVERE: Failed to start Neo Server on port [7474], reason [java.net.BindException: Address already in use]
+Nov 14, 2014 2:35:58 PM org.neo4j.server.logging.Logger log
+SEVERE: 
+org.neo4j.server.ServerStartupException: Starting Neo4j Server failed: java.net.BindException: Address already in use
+	at org.neo4j.server.AbstractNeoServer.start(AbstractNeoServer.java:209)
+	at org.neo4j.server.Bootstrapper.start(Bootstrapper.java:87)
+	at org.neo4j.server.Bootstrapper.main(Bootstrapper.java:50)
+Caused by: java.lang.RuntimeException: java.net.BindException: Address already in use
+	at org.neo4j.server.web.Jetty9WebServer.startJetty(Jetty9WebServer.java:353)
+	at org.neo4j.server.web.Jetty9WebServer.start(Jetty9WebServer.java:172)
+	at org.neo4j.server.AbstractNeoServer.startWebServer(AbstractNeoServer.java:391)
+	at org.neo4j.server.AbstractNeoServer.start(AbstractNeoServer.java:176)
+	... 2 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:444)
+	at sun.nio.ch.Net.bind(Net.java:436)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:214)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.eclipse.jetty.server.ServerConnector.open(ServerConnector.java:244)
+	at org.eclipse.jetty.server.AbstractNetworkConnector.doStart(AbstractNetworkConnector.java:80)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:69)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:303)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:69)
+	at org.neo4j.server.web.Jetty9WebServer.startJetty(Jetty9WebServer.java:349)
+	... 5 more
+
+Nov 14, 2014 2:35:58 PM org.neo4j.server.logging.Logger log
+SEVERE: Failed to start Neo Server on port [7474]
+Nov 17, 2014 2:00:34 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 17, 2014 2:00:35 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 17, 2014 2:00:42 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 17, 2014 2:00:43 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 40 threads available
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 17, 2014 2:00:44 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 17, 2014 2:00:45 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 17, 2014 2:00:46 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 17, 2014 2:00:47 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 17, 2014 2:00:47 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
+Nov 19, 2014 1:42:01 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 19, 2014 1:42:01 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 19, 2014 1:42:05 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 19, 2014 1:42:05 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7373 with 40 threads available
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 19, 2014 1:42:06 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 19, 2014 1:42:06 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 1:42:07 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 1:42:07 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 1:42:07 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7373/]
+Nov 19, 2014 2:15:06 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 19, 2014 2:15:07 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 19, 2014 2:15:09 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 19, 2014 2:15:09 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7373 with 40 threads available
+Nov 19, 2014 2:15:09 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 19, 2014 2:15:10 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 19, 2014 2:15:10 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:15:10 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:15:11 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:15:11 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7373/]
+Nov 19, 2014 2:16:34 PM org.neo4j.server.logging.Logger log
+WARNING: You are using an unsupported Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7.
+Nov 19, 2014 2:16:35 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Nov 19, 2014 2:16:36 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7373 with 40 threads available
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Nov 19, 2014 2:16:37 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Nov 19, 2014 2:16:38 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:16:38 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:16:38 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 19, 2014 2:16:39 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7373/]
+Nov 19, 2014 2:18:11 PM org.neo4j.server.logging.Logger log
+INFO: Neo4j Server shutdown initiated by request
