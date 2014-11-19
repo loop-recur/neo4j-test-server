@@ -1,17 +1,14 @@
 Neo4j 2.0.0 test database
 =======================================
 
-This is a Neo4j 2.0.0 community edition graph database, with Micheal Hunger's
-[neo4j-in-memory-server](https://github.com/jexp/neo4j-in-memory-server)
-installed and the configuration modified to start the rest server on port
-7373 and the https version on port 7272.
+This is a Neo4j 2.0.0 community edition graph database, with a full text
+node auto index configured on the text field, and REST server configured
+to run on port 7373 and the https version on port 7272.
 
 This means that
 
-1. Tests should run faster, since the graph is only stored in memory.
-2. The test server will use more memory than the ordinary server would for the same data set.
-3. Data is lost when the server is stopped.
-4. Your test server can be kept running alongside an out-of-the-box neo4j dev server.
+1. Your test server can be kept running alongside an out-of-the-box neo4j dev server.
+2. Your tests can use a full text auto index on nodes as long as you use the text property.
 
 Quick Start
 -----------
