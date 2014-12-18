@@ -1,7 +1,7 @@
-Neo4j 2.0.0 test database
+Neo4j 2.1.6 test database
 =======================================
 
-This is a Neo4j 2.0.0 community edition graph database, with a full text
+This is a Neo4j 2.1.6 community edition graph database, with a full text
 node auto index configured on the text field, and REST server configured
 to run on port 7373 and the https version on port 7272.
 
@@ -10,13 +10,12 @@ This means that
 1. Your test server can be kept running alongside an out-of-the-box neo4j dev server.
 2. Your tests can use a full text auto index on nodes as long as you use the text property.
 
-Quick Start
------------
+Neo4j 2.1.6
+=======================================
 
-    git clone https://github.com/loop-recur/neo4j-test-server.git
-    neo4j-test-server/bin/neo4j start
-
-Then connect to your test db at `localhost:7373` in your test suite.
+Welcome to Neo4j release 2.1.6, a high-performance graph database.
+This is the community distribution of Neo4j, including everything you need to
+start building applications that can model, persist and explore graph-like data.
 
 In the box
 ----------
@@ -29,7 +28,6 @@ Here in the installation directory, you'll find:
 * bin - scripts and other executables
 * conf - server configuration
 * data - database, log, and other variable files
-* doc - more light reading
 * lib - core libraries
 * plugins - user extensions
 * system - super-secret server stuff
@@ -37,7 +35,7 @@ Here in the installation directory, you'll find:
 Make it go
 ----------
 
-For full instructions, see http://docs.neo4j.org/chunked/2.0.0/deployment.html
+For full instructions, see http://neo4j.com/docs/2.1.6/deployment.html
 
 To get started with Neo4j, let's start the server and take a
 look at the web interface ...
@@ -46,20 +44,18 @@ look at the web interface ...
 2. Start the server:
    * Windows: use bin\Neo4j.bat
    * Linux/Mac: use ./bin/neo4j console
-3. In a browser, open http://localhost:7373/
-4. From any REST client or browser, open http://localhost:7373/db/data
+3. In a browser, open http://localhost:7474/
+4. From any REST client or browser, open http://localhost:7474/db/data
    in order to get a REST starting point, e.g.
-   curl -v http://localhost:7373/db/data
+   curl -v http://localhost:7474/db/data
 5. Shutdown the server by typing Ctrl-C in the console.
 
 Learn more
 ----------
 
-Out on the internets, you'll find:
-
-* Neo4j Home: http://www.neo4j.org/
-* Getting Started: http://docs.neo4j.org/chunked/2.0.0/introduction.html
-* The Neo4j Manual (online): http://docs.neo4j.org/chunked/2.0.0/
+* Neo4j Home: http://neo4j.com/
+* Getting Started: http://neo4j.com/docs/2.1.6/introduction.html
+* The Neo4j Manual: http://neo4j.com/docs/2.1.6/
 
 License(s)
 ----------
